@@ -59,6 +59,3 @@ The summarization process is divided into four main phases:
 * Flexible pipeline that can integrate other transformer models
 
 
-
-
-You can visualize and edit the system flowchart here: [Mermaid Live Editor](https://mermaid.live/)
